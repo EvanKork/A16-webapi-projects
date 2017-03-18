@@ -1,0 +1,14 @@
+header{
+	background:  url("../img/fonHeader.png");
+	height: 301px;	
+	width: 1349px;
+}
+
+.logo{
+	background-image:  url("../img/logoDataGov.png");
+	background-repeat: no-repeat;
+	height: 80px;	
+	width: 283px;
+	margin:28px;
+	
+}

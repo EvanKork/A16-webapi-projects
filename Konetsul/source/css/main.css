@@ -1,15 +1,46 @@
+.header a, a:hover{
+	color: #0ade4e;
+	text-decoration: 0; /*подсветка текста*/
+}
 
-.menu{
-	list-style-type: none;
-	margin: 0;
-	padding: 15px;
+.header h1{
+	letter-spacing: 15px;
+	fonr-size:300#;
 }
-.menu li{
-	display: inline-block;
-	padding: 0 30px;
+
+.header p{
+	color:white !important;
+	font-size:89%;
+	letter-spacing:3px;
 }
-.menu li a{
-	color: #000000;
-	text-transform: uppercase;
-	font-family: 'RalewayBold', sans-serif;
+
+.nav-pills>li.active>a, .nav-pills>li.active> a:focus, .nav-pills>li.active>a:hover{
+	color:#fff;
+	background-color: #346270;
+}
+
+.nav-pills>li>a{
+	color:#fff;
+}
+.nav-pills>li>a:hover{
+	background-color:#346270;
+}
+.navbar-inverse{
+	padding: 1%;
+}
+@media (max-width: 767px){
+	.nav-pills>li  {
+		float:none;
+	}
+	.nav-pills{
+		text-align: center;
+	}
+	.header h1{
+		letter-spacing: 5px;
+		font-size:280%;
+	}
+	.header{
+		text-align:center;
+	}
+
 }

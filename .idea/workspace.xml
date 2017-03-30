@@ -1,7 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28ea8319-29b1-4ead-95f6-b90262873ff9" name="Default" comment="" />
+    <list default="true" id="28ea8319-29b1-4ead-95f6-b90262873ff9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/Index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/byd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/earth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/ecology.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/economy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/education.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/health.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/low.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/podatky.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/sg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/society.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/sport.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/standart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/state.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/dataset/transport.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/source/img/logo2.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/FlowRegular/FlowRegular.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/FlowRegular/FlowRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/FlowRegular/FlowRegular.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/FlowRegular/FlowRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/FlowRegular/FlowRegular.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/FlowRegular/FlowRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoBold/RobotoBold.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoBold/RobotoBold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoBold/RobotoBold.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoBold/RobotoBold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoBold/RobotoBold.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoBold/RobotoBold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedBold/RobotoCondensedBold.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedBold/RobotoCondensedBold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedBold/RobotoCondensedBold.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedBold/RobotoCondensedBold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedBold/RobotoCondensedBold.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedBold/RobotoCondensedBold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedLight/RobotoCondensedLight.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedLight/RobotoCondensedLight.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedLight/RobotoCondensedLight.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedLight/RobotoCondensedLight.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedLight/RobotoCondensedLight.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedLight/RobotoCondensedLight.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoLight/RobotoLight.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoLight/RobotoLight.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoLight/RobotoLight.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoLight/RobotoLight.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoLight/RobotoLight.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoLight/RobotoLight.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoMedium/RobotoMedium.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoMedium/RobotoMedium.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoMedium/RobotoMedium.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoMedium/RobotoMedium.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoMedium/RobotoMedium.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoMedium/RobotoMedium.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoRegular/RobotoRegular.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoRegular/RobotoRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoRegular/RobotoRegular.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoRegular/RobotoRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoRegular/RobotoRegular.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/fonts/RobotoRegular/RobotoRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/0201190.jpg" afterPath="$PROJECT_DIR$/A_Shepel/source/img/0201190.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/ds.jpg" afterPath="$PROJECT_DIR$/A_Shepel/source/img/ds.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/laptop.jpg" afterPath="$PROJECT_DIR$/A_Shepel/source/img/laptop.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/logo.png" afterPath="$PROJECT_DIR$/A_Shepel/source/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/logo2.png" afterPath="$PROJECT_DIR$/A_Shepel/source/img/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/mo.jpg" afterPath="$PROJECT_DIR$/A_Shepel/source/img/mo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/patern.png" afterPath="$PROJECT_DIR$/A_Shepel/source/img/patern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/img/uv9d3hw.png" afterPath="$PROJECT_DIR$/A_Shepel/source/img/uv9d3hw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/blank.gif" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_loading@2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/fancybox_sprite@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/fancybox_buttons.png" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/fancybox_buttons.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/AjaxLoader.gif" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/AjaxLoader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/grabbing.png" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/grabbing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/FlowRegular/FlowRegular.eot" afterPath="$PROJECT_DIR$/source/fonts/FlowRegular/FlowRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/FlowRegular/FlowRegular.ttf" afterPath="$PROJECT_DIR$/source/fonts/FlowRegular/FlowRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/FlowRegular/FlowRegular.woff" afterPath="$PROJECT_DIR$/source/fonts/FlowRegular/FlowRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot" afterPath="$PROJECT_DIR$/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf" afterPath="$PROJECT_DIR$/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff" afterPath="$PROJECT_DIR$/source/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoBold/RobotoBold.eot" afterPath="$PROJECT_DIR$/source/fonts/RobotoBold/RobotoBold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoBold/RobotoBold.ttf" afterPath="$PROJECT_DIR$/source/fonts/RobotoBold/RobotoBold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoBold/RobotoBold.woff" afterPath="$PROJECT_DIR$/source/fonts/RobotoBold/RobotoBold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedBold/RobotoCondensedBold.eot" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedBold/RobotoCondensedBold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedBold/RobotoCondensedBold.ttf" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedBold/RobotoCondensedBold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedBold/RobotoCondensedBold.woff" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedBold/RobotoCondensedBold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedLight/RobotoCondensedLight.eot" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedLight/RobotoCondensedLight.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedLight/RobotoCondensedLight.ttf" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedLight/RobotoCondensedLight.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedLight/RobotoCondensedLight.woff" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedLight/RobotoCondensedLight.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff" afterPath="$PROJECT_DIR$/source/fonts/RobotoCondensedRegular/RobotoCondensedRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoLight/RobotoLight.eot" afterPath="$PROJECT_DIR$/source/fonts/RobotoLight/RobotoLight.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoLight/RobotoLight.ttf" afterPath="$PROJECT_DIR$/source/fonts/RobotoLight/RobotoLight.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoLight/RobotoLight.woff" afterPath="$PROJECT_DIR$/source/fonts/RobotoLight/RobotoLight.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoMedium/RobotoMedium.eot" afterPath="$PROJECT_DIR$/source/fonts/RobotoMedium/RobotoMedium.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoMedium/RobotoMedium.ttf" afterPath="$PROJECT_DIR$/source/fonts/RobotoMedium/RobotoMedium.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoMedium/RobotoMedium.woff" afterPath="$PROJECT_DIR$/source/fonts/RobotoMedium/RobotoMedium.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoRegular/RobotoRegular.eot" afterPath="$PROJECT_DIR$/source/fonts/RobotoRegular/RobotoRegular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoRegular/RobotoRegular.ttf" afterPath="$PROJECT_DIR$/source/fonts/RobotoRegular/RobotoRegular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/fonts/RobotoRegular/RobotoRegular.woff" afterPath="$PROJECT_DIR$/source/fonts/RobotoRegular/RobotoRegular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/0201190.jpg" afterPath="$PROJECT_DIR$/source/img/0201190.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/ds.jpg" afterPath="$PROJECT_DIR$/source/img/ds.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/laptop.jpg" afterPath="$PROJECT_DIR$/source/img/laptop.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/logo.png" afterPath="$PROJECT_DIR$/source/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/logo2.png" afterPath="$PROJECT_DIR$/source/img/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/mo.jpg" afterPath="$PROJECT_DIR$/source/img/mo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/patern.png" afterPath="$PROJECT_DIR$/source/img/patern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/img/uv9d3hw.png" afterPath="$PROJECT_DIR$/source/img/uv9d3hw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/blank.gif" afterPath="$PROJECT_DIR$/source/libs/fancybox/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/source/libs/fancybox/fancybox_loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/source/libs/fancybox/fancybox_loading@2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/source/libs/fancybox/fancybox_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/source/libs/fancybox/fancybox_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/source/libs/fancybox/fancybox_sprite@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/helpers/fancybox_buttons.png" afterPath="$PROJECT_DIR$/source/libs/fancybox/helpers/fancybox_buttons.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/owl-carousel/AjaxLoader.gif" afterPath="$PROJECT_DIR$/source/libs/owl-carousel/AjaxLoader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/owl-carousel/grabbing.png" afterPath="$PROJECT_DIR$/source/libs/owl-carousel/grabbing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/projects.iml" afterPath="$PROJECT_DIR$/.idea/projects.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/A_Shepel/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/.idea/misc.xml" afterPath="$PROJECT_DIR$/A_Shepel/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/.idea/modules.xml" afterPath="$PROJECT_DIR$/A_Shepel/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/.idea/projects.iml" afterPath="$PROJECT_DIR$/A_Shepel/.idea/projects.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/.idea/workspace.xml" afterPath="$PROJECT_DIR$/A_Shepel/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/index.html" afterPath="$PROJECT_DIR$/A_Shepel/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/mail.php" afterPath="$PROJECT_DIR$/A_Shepel/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/pages/dataSet.html" afterPath="$PROJECT_DIR$/A_Shepel/pages/dataSet.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/css/animate.css" afterPath="$PROJECT_DIR$/A_Shepel/source/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/css/fonts.css" afterPath="$PROJECT_DIR$/A_Shepel/source/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/css/main.css" afterPath="$PROJECT_DIR$/A_Shepel/source/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/css/media.css" afterPath="$PROJECT_DIR$/A_Shepel/source/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/css/wow.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/css/wow.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/js/common.js" afterPath="$PROJECT_DIR$/A_Shepel/source/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/bootstrap/bootstrap-grid-3.3.1.min.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.countdown-ru.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.countdown-ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.countdown.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.countdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.countdown.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.countdown.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.plugin.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/countdown/jquery.plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-buttons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-thumbs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/helpers/jquery.fancybox-thumbs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/jquery.fancybox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/jquery.fancybox.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/jquery.fancybox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/fancybox/jquery.fancybox.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/es5-shim.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/es5-shim.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/html5shiv-printshiv.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/html5shiv-printshiv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/html5shiv.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/html5shiv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/respond.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/html5shiv/respond.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/jquery-mousewheel/jquery.mousewheel.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/jquery-mousewheel/jquery.mousewheel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/jquery/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/jquery/jquery-1.11.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/jquery/jquery-3.1.1.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/jquery/jquery-3.1.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/landing-nav/navigation.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/landing-nav/navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.carousel.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.carousel.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.carousel.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.theme.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.transitions.css" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/owl-carousel/owl.transitions.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/respond/respond.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/respond/respond.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/scrollto/jquery.scrollTo.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/scrollto/jquery.scrollTo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/A_Shepel/source/libs/waypoints/waypoints-1.6.2.min.js" afterPath="$PROJECT_DIR$/A_Shepel/source/libs/waypoints/waypoints-1.6.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail.php" afterPath="$PROJECT_DIR$/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/olko/boo/index.html" afterPath="$PROJECT_DIR$/olko/boo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/animate.css" afterPath="$PROJECT_DIR$/source/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/fonts.css" afterPath="$PROJECT_DIR$/source/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/main.css" afterPath="$PROJECT_DIR$/source/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/media.css" afterPath="$PROJECT_DIR$/source/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/wow.min.js" afterPath="$PROJECT_DIR$/source/css/wow.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/js/common.js" afterPath="$PROJECT_DIR$/source/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/JQuery/jquery-3.1.1.js" afterPath="$PROJECT_DIR$/source/libs/JQuery/jquery-3.1.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/bootstrap/bootstrap-grid-3.3.1.min.css" afterPath="$PROJECT_DIR$/source/libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/countdown/jquery.countdown-ru.js" afterPath="$PROJECT_DIR$/source/libs/countdown/jquery.countdown-ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/countdown/jquery.countdown.css" afterPath="$PROJECT_DIR$/source/libs/countdown/jquery.countdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/countdown/jquery.countdown.min.js" afterPath="$PROJECT_DIR$/source/libs/countdown/jquery.countdown.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/countdown/jquery.plugin.js" afterPath="$PROJECT_DIR$/source/libs/countdown/jquery.plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-buttons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-thumbs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="$PROJECT_DIR$/source/libs/fancybox/helpers/jquery.fancybox-thumbs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/jquery.fancybox.css" afterPath="$PROJECT_DIR$/source/libs/fancybox/jquery.fancybox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/jquery.fancybox.js" afterPath="$PROJECT_DIR$/source/libs/fancybox/jquery.fancybox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/fancybox/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/source/libs/fancybox/jquery.fancybox.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/source/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/html5shiv/es5-shim.min.js" afterPath="$PROJECT_DIR$/source/libs/html5shiv/es5-shim.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/html5shiv/html5shiv-printshiv.min.js" afterPath="$PROJECT_DIR$/source/libs/html5shiv/html5shiv-printshiv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/html5shiv/html5shiv.min.js" afterPath="$PROJECT_DIR$/source/libs/html5shiv/html5shiv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/html5shiv/respond.min.js" afterPath="$PROJECT_DIR$/source/libs/html5shiv/respond.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/jquery-mousewheel/jquery.mousewheel.min.js" afterPath="$PROJECT_DIR$/source/libs/jquery-mousewheel/jquery.mousewheel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/jquery/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/source/libs/jquery/jquery-1.11.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/landing-nav/navigation.js" afterPath="$PROJECT_DIR$/source/libs/landing-nav/navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/owl-carousel/owl.carousel.css" afterPath="$PROJECT_DIR$/source/libs/owl-carousel/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/owl-carousel/owl.carousel.js" afterPath="$PROJECT_DIR$/source/libs/owl-carousel/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/owl-carousel/owl.carousel.min.js" afterPath="$PROJECT_DIR$/source/libs/owl-carousel/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/owl-carousel/owl.theme.css" afterPath="$PROJECT_DIR$/source/libs/owl-carousel/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/owl-carousel/owl.transitions.css" afterPath="$PROJECT_DIR$/source/libs/owl-carousel/owl.transitions.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/respond/respond.min.js" afterPath="$PROJECT_DIR$/source/libs/respond/respond.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/scrollto/jquery.scrollTo.min.js" afterPath="$PROJECT_DIR$/source/libs/scrollto/jquery.scrollTo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/libs/waypoints/waypoints-1.6.2.min.js" afterPath="$PROJECT_DIR$/source/libs/waypoints/waypoints-1.6.2.min.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,41 +224,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/olko/boo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+            <state relative-caret-position="1336">
+              <caret line="189" column="33" lean-forward="false" selection-start-line="189" selection-start-column="33" selection-end-line="189" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/css/animate.css">
+      <file leaf-file-name="in2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/дд/base/in2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="980">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/css/main.css">
+      <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/дд/base/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+            <state relative-caret-position="234">
+              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/css/media.css">
+      <file leaf-file-name="js.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/дд/js.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="548">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1490907810121" expanded="true" signature="660:710" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/olko/boo/source/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,10 +279,21 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <replaceStrings>
       <replace>clearfix</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,9 +303,20 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/source/js/common.js" />
         <option value="$PROJECT_DIR$/source/css/media.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/source/css/fonts.css" />
         <option value="$PROJECT_DIR$/source/css/main.css" />
+        <option value="$PROJECT_DIR$/olko/index.html" />
+        <option value="$PROJECT_DIR$/olko/штвуч.html" />
+        <option value="$PROJECT_DIR$/olko/source/style.css" />
+        <option value="$PROJECT_DIR$/olko/Index.html" />
+        <option value="$PROJECT_DIR$/olko/base/Index.html" />
+        <option value="$PROJECT_DIR$/olko/base/css/dpstyle.css" />
+        <option value="$PROJECT_DIR$/olko/base/in2.html" />
+        <option value="$PROJECT_DIR$/olko/source/css/style.css" />
+        <option value="$PROJECT_DIR$/olko/boo/source/css/style.css" />
+        <option value="$PROJECT_DIR$/olko/boo/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/дд/js.html" />
       </list>
     </option>
   </component>
@@ -87,8 +328,13 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
+    <option name="x" value="27" />
+    <option name="y" value="71" />
+    <option name="width" value="919" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -105,81 +351,110 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
+              <option name="myItemId" value="дд" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
+              <option name="myItemId" value="дд" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="base" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
+              <option name="myItemId" value="A16" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="A_Shepel" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/programs for IT/Subline 3/myFirst_page" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/olko/source/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/olko/source/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
@@ -217,7 +492,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -252,33 +527,40 @@
       <workItem from="1489741573517" duration="2242000" />
       <workItem from="1489749704887" duration="4662000" />
       <workItem from="1489825583682" duration="3092000" />
+      <workItem from="1490474055709" duration="1681000" />
+      <workItem from="1490476304008" duration="1940000" />
+      <workItem from="1490479645739" duration="9874000" />
+      <workItem from="1490513739134" duration="8264000" />
+      <workItem from="1490536088670" duration="8535000" />
+      <workItem from="1490602591021" duration="35385000" />
+      <workItem from="1490740675856" duration="13874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19508000" />
+    <option name="totallyTimeSpent" value="99061000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
+    <frame x="27" y="71" width="919" height="916" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1669219" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27856365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,11 +574,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/olko/Index.html" />
+    <entry file="file://$PROJECT_DIR$/olko/source/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/olko/Index.html" />
+    <entry file="file://$PROJECT_DIR$/olko/source/css/style.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -304,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4440">
           <caret line="222" column="21" lean-forward="false" selection-start-line="222" selection-start-column="21" selection-end-line="222" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -312,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -320,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -328,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -336,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -351,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -359,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
           <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -367,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -384,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,9 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -415,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -430,15 +730,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="76" column="4" lean-forward="true" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/css/media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="216">
           <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -446,30 +744,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="90" column="1" lean-forward="false" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="2250">
           <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
+        <state relative-caret-position="18">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olko/index.html" />
+    <entry file="file://$PROJECT_DIR$/olko/cp .env.example ..txt" />
+    <entry file="file://$PROJECT_DIR$/olko/штвуч.html" />
+    <entry file="file://$PROJECT_DIR$/olko/source/css/style.css___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/olko/base/Index.html" />
+    <entry file="file://$PROJECT_DIR$/olko/base/css/dpstyle.css" />
+    <entry file="file://$PROJECT_DIR$/olko/base/in2.html" />
+    <entry file="file://$PROJECT_DIR$/olko/source/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/olko/Index.html" />
+    <entry file="file://$PROJECT_DIR$/olko/boo/source/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/дд/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1490907810121" expanded="true" signature="660:710" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        <state relative-caret-position="3546">
+          <caret line="197" column="109" lean-forward="false" selection-start-line="197" selection-start-column="109" selection-end-line="197" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olko/boo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1336">
+          <caret line="189" column="33" lean-forward="false" selection-start-line="189" selection-start-column="33" selection-end-line="189" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/дд/base/in2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Shepel/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/дд/base/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding />
         </state>
       </provider>

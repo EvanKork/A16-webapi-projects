@@ -1,7 +1,6 @@
 /*ЦВЕТ И ОТСТУП СНИЗУ ДЛЯ БЛОКОВ*/
 .row{
-
-  background:#ccc;
+  /*background:#ccc;*/
   margin:1px;
 }
 .header{
@@ -41,7 +40,6 @@ div.data-set {
   width: 350px;
   height: 250px;
   margin: 0 10px 50px 10px;
-  border: solid 0px black;
   border-radius: 15px;
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
@@ -70,4 +68,7 @@ div.data-set p{
 }
 div.data-set p{
   margin: 15px;
+}
+.new{
+  border-right: solid 1px black;
 }

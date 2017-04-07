@@ -1,0 +1,85 @@
+div{
+    height: auto;
+    text-align: center;
+}
+.line{
+    background-color: yellow;
+    height: 10px;
+}
+.singIn{
+    background-color: yellow;
+    margin: 15px;
+    margin-left: -15px;
+    padding: 15px;
+}
+.logo img{
+    padding: 10px;
+}
+.ww{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.news{
+    text-align: left;
+}
+
+.main{
+    text-align: center;
+    padding-top: 40px;
+}
+.flip-container{
+    margin: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.footer{
+    background-color: #666;
+    text-align: left;
+    padding: 20px;
+}
+/* весь контейнер поддерживает перспективу */
+/*.flip-container {*/
+    /*perspective: revert;*/
+/*}*/
+/* переверните сторону при проведении мышью */
+.flip-container:hover .flipper, .flip-container.hover .flipper {
+    transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+}
+
+/* здесь находится скорость перевертывания */
+.flipper {
+    transition: 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+/* скройте обратную сторону во время переворота */
+.front, .back {
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 40px;
+    opacity: 100;
+}
+
+/* лицевая сторона размещена над обратной */
+.front {
+    border: solid 1px grey;
+    z-index: 2;
+}
+
+/* обратная, изначально скрытая сторона */
+.back {
+    transform: rotateY(180deg);
+    background: yellow;
+    padding-top: 60px;
+}

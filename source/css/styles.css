@@ -1,0 +1,28 @@
+
+*{
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+body{
+    text-align:center; /*For IE6 Shenanigans*/
+}
+
+
+#wrapper{
+    width:960px;
+    margin:0 auto;
+    text-align:left;
+}
+
+header{
+    background-image: url("../img/top.jpg");
+    height: 220px;;
+    width: 100%;
+}
+/*-----------------logo-----------------*/
+.logo{
+
+}
+/*-----------------navBar---------------*/
+/*-----------------login----------------*/

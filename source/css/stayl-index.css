@@ -1,0 +1,201 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@media(min-width:992px) and (max-width:1400px){
+    .NavBarTop{
+        margin-top: 80px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+}
+@media(min-width:768px) and (max-width:992px){
+    .NavBarTop{
+        margin-top: 100px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+    #namber1{ margin-top: -22%; }
+    #namber2{ margin-top: -24%; }
+}
+
+    .newsbaner{
+    background: #E8E8E8;
+    width: 100%;
+    height: 100%;
+}
+.tach{
+    width: 230px;
+    height: 39px;
+    background: #F3F3F3;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+/*baner*/
+.baner{
+    background: #EED547;
+    width: 100%;
+    height: 100%;
+}
+.baner_gif{
+    background: #EED547;
+    width: 100%;
+    height:300px;
+
+}
+
+
+#dis1{
+    background-image: url("../img/bner/s1.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: auto 200px;
+}
+
+#dis2{
+    background-image: url("../img/bner/s2.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: auto 200px;}
+
+#dis3{
+    background-image: url("../img/bner/s3.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: auto 200px;
+}
+
+
+#namber1
+{
+    background-image: url("../img/bner/bg-header-statistic-dataset.png");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: auto 100px;
+    vertical-align: top;
+    margin-left: 40%;
+    margin-top: -20%;
+
+}
+#namber2
+{   background-image: url("../img/bner/bg-header-statistic-rozpor.png");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: auto 100px;
+    vertical-align: top;
+    margin-top: -18%;
+    margin-left: 80%;
+
+}
+#namber3{
+    background-image: url("../img/bner/bg-header-statistic.png");
+    width: 740px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: auto 50px;
+    vertical-align: top;
+    margin-top: -65%;
+    margin-left: -100px;
+}
+
+/*baner*/
+.tach>div>p{
+    margin-top: -35px;
+}
+.tach>div{
+    width: 115px;
+    height: 39px;
+    margin-top:-30px;
+    border-top: 39px solid #EED547;
+    border-right: 20px solid transparent;
+}
+.tach>p{
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+/*
+.allNewsBloc{
+    margin-left: 10%;
+}
+*/
+.blocNews{
+    margin: 5px;
+    padding: 40px;
+    background: white;
+    width: 40%;
+    height: 100%;
+    display: flex;
+    text-align: center;
+}
+
+.news{
+    margin-left: 30px;
+}
+.colon{
+    width: 190px;
+    height: 290px;
+    margin: 30px ;
+}
+.eys{
+    background-image: url("../img/index/eys/eye-see-more-gray.png");
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 16px;
+    margin-left: 30px;
+}
+.eys>p{
+    margin-left: 15px;
+    margin-top: -2px;
+}
+.port{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.port>div{
+    margin: 20px;
+}
+.global{
+    margin-left: 200px;
+}
+.had{
+    margin-top: 30px;
+}
+.had>div>p{
+    margin-right: 30%;
+}
+.eysHover{
+    background-image: url("../img/index/eys/eye-see-more.png");
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 16px;
+    text-decoration: none;
+    color: #0f0f0f;
+    margin-left: 30%;
+}
+.eysHover>p{
+    margin-left: 20px;
+}
+.eysHover:hover{
+    background-image: url("../img/index/eys/eye-see-more-hover.png");
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 16px;
+    color: #EED547;
+}

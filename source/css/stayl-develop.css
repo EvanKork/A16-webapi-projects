@@ -1,0 +1,56 @@
+@media(min-width:992px) and (max-width:1400px){
+    .NavBarTop{
+        margin-top: 80px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+    .Search{
+        margin-top: 60px;
+    }
+}
+@media(min-width:768px) and (max-width:992px){
+    .NavBarTop{
+        margin-top: 100px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+}
+.all{
+    width: 100%;
+    height: 700px;
+
+}
+.develop{
+    width: 100%;
+    height: 70px;
+    background: #F6F6F6;
+
+}
+.develop>div>h3{
+    color: #85B6CE;
+}
+.qvest>a{
+    color: black;
+    text-decoration: none;
+}
+.qvest{
+    height: 40px;
+    width: 200px;
+    border: 2.5px solid #EED547;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.qvest:hover{
+    background: #EED547;
+}
+.cont{
+    margin-top: 20px;
+}

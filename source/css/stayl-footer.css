@@ -1,0 +1,34 @@
+footer{
+    background: #4A4B4D;
+    width: 100%;
+    height: 100%;
+}
+.footerBar>ul{
+    list-style-type: none;
+    color: #A9A9A0;
+}
+.footer>div>p {
+    color: #A9A9A0;
+}
+.iconFot>img{
+    width: 50px;
+    height: 50px;
+}
+
+
+.footerBar{
+    text-decoration: none;
+    margin-top: 50px;
+}
+.logoBot{
+    margin-top: 30px;
+}
+.logoBot>p{
+    margin-top: 5px;
+}
+
+.iconFot>img{
+    margin-top: 50px;
+    height: 40px;
+    width: 40px;
+}

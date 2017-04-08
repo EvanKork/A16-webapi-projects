@@ -1,0 +1,27 @@
+@media(min-width:992px) and (max-width:1400px){
+    .NavBarTop{
+        margin-top: 80px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+}
+@media(min-width:768px) and (max-width:992px){
+    .NavBarTop{
+        margin-top: 100px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+    #namber1{ margin-top: -22%; }
+    #namber2{ margin-top: -24%; }
+}
+.pars3{
+
+}

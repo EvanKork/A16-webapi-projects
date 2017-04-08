@@ -1,0 +1,109 @@
+@media(min-width:992px) and (max-width:1400px){
+    .NavBarTop{
+        margin-top: 80px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+}
+@media(min-width:768px) and (max-width:992px){
+    .NavBarTop{
+        margin-top: 100px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+    #namber1{ margin-top: -22%; }
+    #namber2{ margin-top: -24%; }
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.lebBar{
+    width: 60px;
+    height: 55px;
+    background: #E8E8E8;
+}
+.textBar{
+    width: 100%;
+    height: 55px;
+    background: #F6F6F6;
+    margin-bottom: 4px;
+}
+.lebBar>img{
+    margin-top: 6px;
+}
+.textBar>p{
+    margin-top: -40px;
+}
+
+.textBar:hover{
+    background: #EED547;
+}
+.band{
+    width: 100%;
+    height: 50px;
+    background:#F6F6F6 ;
+    margin-top: -40px;
+}
+.band>h2{
+    color: #85B6CE;
+    text-align: left;
+    margin-left: 50px;
+}
+.control{
+    height: 40px;
+    width: 100%;
+    border: 1px solid #EED547;
+    background: #F6F6F6;
+}
+.search1{
+    height: 40px;
+    width: 100%;
+    background: #F6F6F6;
+    border: 1px solid #EED547;
+}
+.head{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.containerNews{
+    height: 190px;
+    width: 100%;
+    border: 2px solid #F6F6F6;
+}
+.containerNews>.data>a{
+    color:black;
+    text-decoration: none;
+}
+
+.containerNews>div>img{
+    margin-top: 20px;
+}
+.containerNews{
+    margin-top: 30px;
+}
+.clik>p{
+    text-decoration: none;
+    color: black;
+}
+.clik{
+    margin-top: 8px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #EED547;
+}
+.clik:hover{
+    background: #EED547;
+}
+.dod{
+    margin-top: -9px;
+}

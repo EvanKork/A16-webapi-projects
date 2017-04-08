@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="source/libs/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="source/css/stayl-radius.css">
+    <script href="source/libs/bootstrap/js/bootstrap.js"></script>
+    <script src="source/libs/jquery/jquery-3.1.1.js"></script>
+    <link rel="stylesheet" type="text/css" href="source/css/stayl-header.css">
+    <link rel="stylesheet" type="text/css" href="source/css/stayl-index.css">
+    <link rel="stylesheet" type="text/css" href="source/css/stayl-footer.css">
+
+</head>
+<body>
+<header>
+    <div class="container-fluid">
+    <div class="row">
+        <a href="Index.html">
+            <div class="col-md-2 col-xs-2 col-sm-2 logo">
+                <img src="source/img/logo.png">
+            </div>
+        </a>
+        <div class="col-md-8 col-xs-8 col-sm-8 NavBarTop ">
+
+                    <ul>
+                        <li class="col-md-2 col-sm-4 col-xs-11"><a href="News.html">новини</a></li>
+                        <li class="col-md-2 col-sm-4 col-xs-11"><a href="DataSets.html">набори данних</a></li>
+                        <li class="col-md-2 col-sm-4 col-xs-11"><a href="ApplicationDirectory.html">каталог додатків</a></li>
+                        <li class="col-md-2 col-sm-4 col-xs-11"><a href="#">розпорядники</a></li>
+                        <li class="col-md-2 col-sm-4 col-xs-11"><a href="Develop.html">розробітникам</a></li>
+                        <li class="col-md-2 col-sm-4 col-xs-11"><a href="#">зворотній зв'язок</a></li>
+                    </ul>
+
+        </div>
+        <!--
+        <div class="col-md-1 col-xs-1 col-sm-1 Search">
+            <form>
+                <input type="search">
+            </form>
+
+        </div>
+        -->
+        <div class="col-md-1 col-xs-1 col-sm-1">
+            <div class="login">
+                <div><p>Login</p></div>
+                <div> <img src="source/img/login.png"></div>
+            </div>
+        </div>
+    </div>
+    </div>
+</header>
+<!--начало-->
+<div class="baner">
+    <div class="container">
+        <div class="baner_gif">
+            <div id="dis1">
+                <div id="dis2">
+                    <div id="dis3">
+                    </div>
+                </div>
+            </div>
+            <div class="img4" id="namber1">
+                <div class="img5" id="namber2"></div>
+                <div id="namber3"> </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <script>
+        $(function() {
+            $(document).on('mousemove', function(e) {
+                $('#dis1').css({
+                    marginLeft: e.pageX/100 + 10,
+                })
+                $('#dis2').css({
+                    marginLeft: e.pageX/100 + 10,
+                })
+                $('#dis3').css({
+                    marginLeft: e.pageX/100 + 10,
+                })
+            })
+        })
+    </script>
+</div>
+<div class="content">
+    <div class="container">
+    <div class="row">
+    <div class="container rad-cont">
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/1.png">
+                            <p>молодь та спорт</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers" >
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/2.png">
+                            <p>Сільське господарство</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/3.png">
+                            <p>Освіта та культура</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/4.png">
+                            <p>Будівництво</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/5.png">
+                            <p>Єкономіка</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/6.png">
+                            <p>земля</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/7.png">
+                            <p>Єкологія</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/8.png">
+                            <p>Фінанси </p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/9.png">
+                            <p>Юстиція</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/10.png">
+                            <p>Охорона здоров'я</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/11.png">
+                            <p>Соціальний захист</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/12.png">
+                            <p>Стандарти</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/13.png">
+                            <p>Транспорт</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers">
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/14.png">
+                            <p>молодь та спорт</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-4 col-xs-6" >
+            <div class="containers" >
+                <div class="flip got card">
+                    <figure class="back back1">
+                        <div class="bor">
+                            <img class="rot" src="source/img/index/15.png">
+                            <p>молодь та спорт</p>
+                        </div>
+                    </figure>
+                    <figure class="front front1">
+                        <h3 class="textMag">Наборів данних <br> 2012</h3>
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<div class="newsbaner">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                 <div class="tach" di="New"> <p>нові</p>
+                     <div id="popular"> <p>популярні</p></div>
+                 </div>
+            </div>
+            <div class="global">
+             <div class="allNewsBloc">
+                  <div class="blocNews col-md-6">
+                        <div>
+                            <div class="col-md-3">
+                                <img src="source/img/index/1.png">
+                            </div>
+                            <div class="col-md-9">
+                                <p>Звіт по інформаційних запитах управління бюджету і фінансів (2017 рік)</p>
+                            </div>
+                            <hr class="col-md-12">
+                            <div class="col-md-2 data">
+                                <p>30.03.2017</p>
+                            </div>
+                            <div class="col-md-10">
+                                <p>Управління бюджету і фінансів виконавчого комітету Рівненської міської ради</p>
+                        </div>
+                </div>
+            </div>
+             </div>
+            <div class="allNewsBloc">
+                <div class="blocNews col-md-6">
+                    <div>
+                        <div class="col-md-3">
+                            <img src="source/img/index/1.png">
+                        </div>
+                        <div class="col-md-9">
+                            <p>Звіт по інформаційних запитах управління бюджету і фінансів (2017 рік)</p>
+                        </div>
+                        <hr class="col-md-12">
+                        <div class="col-md-2 data">
+                            <p>30.03.2017</p>
+                        </div>
+                        <div class="col-md-10">
+                            <p>Управління бюджету і фінансів виконавчого комітету Рівненської міської ради</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                <div class="allNewsBloc">
+                    <div class="blocNews col-md-6">
+                        <div>
+                            <div class="col-md-3">
+                                <img src="source/img/index/1.png">
+                            </div>
+                            <div class="col-md-9">
+                                <p>Звіт по інформаційних запитах управління бюджету і фінансів (2017 рік)</p>
+                            </div>
+                            <hr class="col-md-12">
+                            <div class="col-md-2 data">
+                                <p>30.03.2017</p>
+                            </div>
+                            <div class="col-md-10">
+                                <p>Управління бюджету і фінансів виконавчого комітету Рівненської міської ради</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <div class="allNewsBloc">
+                        <div class="blocNews col-md-6">
+                            <div>
+                                <div class="col-md-3">
+                                    <img src="source/img/index/1.png">
+                                </div>
+                                <div class="col-md-9">
+                                    <p>Звіт по інформаційних запитах управління бюджету і фінансів (2017 рік)</p>
+                                </div>
+                                <hr class="col-md-12">
+                                <div class="col-md-2 data">
+                                    <p>30.03.2017</p>
+                                </div>
+                                <div class="col-md-10">
+                                    <p>Управління бюджету і фінансів виконавчого комітету Рівненської міської ради</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+        <div class="row">
+            <div class=" row had">
+                <div class=" col-md-6 col-sm-6 col-xs-6 text"><p>Новини</p></div>
+                <div class=" col-md-6 col-sm-6 col-xs-6 eysHover"> <p>Архівновин</p> </div>
+            </div>
+            <div class="news">
+                <div class="col-md-3 col-sm-4 col-xs-12 colon ">
+                    <h4 ><a>10 березня 2017 року презентовано Дорожню карту розвитку відкритих даних в Україні на 2017 рік</a></h4>
+                    <p>Відкриття державних даних у спеціальних форматах – це сучасний інструмент підвищення прозорості органів влади і якості прийняття управлінських рішень.</p>
+                    <div class="col-md-6"><p>10.03.2017</p></div> <div class="eys col-md-6"> <p>260</p></div>
+                </div>
+                <div class="col-md-3 col-sm-4 col-xs-12 colon ">
+                    <h4 ><a>10 березня 2017 року презентовано Дорожню карту розвитку відкритих даних в Україні на 2017 рік</a></h4>
+                    <p>Відкриття державних даних у спеціальних форматах – це сучасний інструмент підвищення прозорості органів влади і якості прийняття управлінських рішень.</p>
+                    <div class="col-md-6"><p>10.03.2017</p></div> <div class="eys col-md-6"> <p>260</p></div>
+                </div>
+                <div class="col-md-3 col-sm-4 col-xs-12 colon ">
+                    <h4 ><a>10 березня 2017 року презентовано Дорожню карту розвитку відкритих даних в Україні на 2017 рік</a></h4>
+                    <p>Відкриття державних даних у спеціальних форматах – це сучасний інструмент підвищення прозорості органів влади і якості прийняття управлінських рішень.</p>
+                    <div class="col-md-6"><p>10.03.2017</p></div> <div class="eys col-md-6"> <p>260</p></div>
+                </div>
+                <div class="col-md-3 col-sm-4 col-xs-12 colon ">
+                    <h4 ><a>10 березня 2017 року презентовано Дорожню карту розвитку відкритих даних в Україні на 2017 рік</a></h4>
+                    <p>Відкриття державних даних у спеціальних форматах – це сучасний інструмент підвищення прозорості органів влади і якості прийняття управлінських рішень.</p>
+                    <div class="col-md-6"><p>10.03.2017</p></div> <div class="eys col-md-6"> <p>260</p></div>
+                </div>
+            </div>
+        </div>
+</div>
+<div class="port">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 col-sm-6 col-xs-12"> <img src="source/img/index/allPorlts/01.png"> </div>
+            <div class="col-md-3 col-sm-6 col-xs-12"> <img src="source/img/index/allPorlts/02.png"> </div>
+            <div class="col-md-3 col-sm-6 col-xs-12"> <img src="source/img/index/allPorlts/03.png"> </div>
+            <div class="col-md-3 col-sm-6 col-xs-12"> <img src="source/img/index/allPorlts/04.png"> </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="row footer container">
+        <div class="col-md-6 logoBot">
+            <img src="source/img/logo2.png">
+            <p>© 2015-2017 Державне агентство з питань електронного урядування України</p>
+        </div>
+        <div class="footerBar col-md-4">
+            <ul class="col-md-6 col-xs-6">
+                <li><a href="eror.html" >НОВИНИ </a></li>
+                <li><a href="eror.html">КАТАЛОГ ДОДАТКІВ</a></li>
+                <li><a href="eror.html">РОЗРОБНИКАМ</a></li>
+                <li><a href="eror.html">ЗВОРОТНІЙ ЗВ'ЯЗОК</a></li>
+            </ul>
+            <ul class="col-md-6 col-xs-6">
+                <li><a href="eror.html">НАБОРИ ДАННИХ</a></li>
+                <li><a href="eror.html">РОЗПОРЯДНИКИ</a></li>
+                <li><a href="eror.html">ПРО ПОРТАЛ</a></li>
+            </ul>
+        </div>
+        <div class="col-md-2 iconFot">
+            <img src="source/img/foter/w512h5121347464873Facebookalt4.png">
+            <img src="source/img/foter/w512h5121347464932TwitterNEW.png">
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>

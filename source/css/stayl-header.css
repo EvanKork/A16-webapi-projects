@@ -1,0 +1,121 @@
+@media(min-width:992px) and (max-width:1400px){
+    .NavBarTop{
+        margin-top: 80px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+    .Search{
+        margin-top: 60px;
+    }
+}
+@media(min-width:768px) and (max-width:992px){
+    .NavBarTop{
+        margin-top: 100px;
+    }
+    .logo{
+        margin-top: 60px;
+    }
+    .login{
+        margin-top: 60px;
+    }
+}
+header{
+    background:#EED547;
+}
+
+*{
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+#wrapper{
+    width:960px;
+    margin:0 auto;
+    text-align:left;
+}
+
+header{
+    height: 229px;
+    width: 100%;
+    background-image: url("../img/bner/header-main.gif");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*-----------------logo-----------------*/
+.logo>img{
+    width: 100%;
+    height: auto;
+
+
+    background-repeat: no-repeat;
+}
+/*-----------------navBar---------------*/
+.NavBarTop>ul{
+    list-style: none;
+}
+.NavBarTop>ul>li>a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.NavBarTop>ul>li>a:hover{
+    border-bottom: 2px solid #EED547;
+}
+
+/*-----------------login----------------*/
+.login{
+    width: 80px;
+    height: 30px;
+    background: #f5e89f;
+}
+.login>div>img{
+    margin-top: -53px;
+    margin-left: 50px;
+    height: 30px;
+    width: 30px;
+}
+.login>div>p{
+    text-align: left;
+}
+/*----------------------------------------------------*/
+input[type=search] {
+    -webkit-appearance: textfield;
+    -webkit-box-sizing: content-box;
+    font-family: inherit;
+    font-size: 100%;
+
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+    display: none;
+}
+input[type=search] {
+    background: #ffffff url(../img/search-lupa.png) no-repeat 9px center;
+    border: solid 1px #EED547;
+    padding: 10px 20px 10px 10px;
+    width: 10px;
+    float: right;
+    transition: all .5s;
+}
+
+input[type=search]:hover {
+    width: 500px;
+    background-color: #fff;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li>a{
+    ont-family: Arial, serif;
+    font-size: 11px;
+    font-weight:bolder;
+    text-transform: uppercase;
+}

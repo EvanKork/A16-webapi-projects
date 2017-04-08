@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="source/libs/jquery/jquery-3.1.1.js"></script>
+    <script src="source/libs/bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet" type="text/css" href="source/libs/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="source/css/stayl-header.css">
+    <link rel="stylesheet" type="text/css" href="source/css/stayl-footer.css">
+    <link rel="stylesheet" type="text/css" href="source/css/stayl-develop.css">
+
+</head>
+<body>
+<header>
+    <div class="container-fluid">
+        <div class="row">
+            <a href="Index.html">
+                <div class="col-md-2 col-xs-2 col-sm-2 logo">
+                    <img src="source/img/logo.png">
+                </div>
+            </a>
+            <div class="col-md-8 col-xs-8 col-sm-8 NavBarTop ">
+
+                <ul>
+                    <li class="col-md-2 col-sm-4 col-xs-11"><a href="News.html">новини</a></li>
+                    <li class="col-md-2 col-sm-4 col-xs-11"><a href="DataSets.html">набори данних</a></li>
+                    <li class="col-md-2 col-sm-4 col-xs-11"><a href="ApplicationDirectory.html">каталог додатків</a></li>
+                    <li class="col-md-2 col-sm-4 col-xs-11"><a href="#">розпорядники</a></li>
+                    <li class="col-md-2 col-sm-4 col-xs-11"><a href="Develop.html">розробітникам</a></li>
+                    <li class="col-md-2 col-sm-4 col-xs-11"><a href="#">зворотній зв'язок</a></li>
+                </ul>
+
+            </div>
+            <div class="col-md-1 col-xs-1 col-sm-1 Search">
+                <form>
+                    <input type="search">
+                </form>
+
+            </div>
+            <div class="col-md-1 col-xs-1 col-sm-1">
+                <div class="login">
+                    <div><p>Login</p></div>
+                    <div> <img src="source/img/login.png"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="all">
+    <div class="container develop">
+        <div class="col-md-6 col-xs-6 col-sm-6"> <h3>Розробникам</h3></div>
+        <div class="col-md-6 col-xs-6 col-sm-6 qvest"><a>Поставити питання</a></div>
+    </div>
+
+
+    <div class="container cont">
+        <div class="panel-group" id="accordion">
+            <!-- 1 панель -->
+            <div class="panel panel-default">
+                <!-- Заголовок 1 панели -->
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Що таке відкриті дані?</a>
+                    </h4>
+                </div>
+                <div id="collapseOne" class="panel-collapse collapse">
+                    <!-- Содержимое 1 панели -->
+                    <div class="panel-body">
+                        <p>Закон України «Про доступ до публічної інформації» № 2939-VI від 13.01.2011 регламентує питання відкритих даних наступним чином:
+
+                            Публічна інформація у формі відкритих даних - це публічна інформація у форматі, що дозволяє її автоматизоване оброблення електронними засобами, вільний та безоплатний доступ до неї, а також її подальше використання.
+
+                            Розпорядники інформації зобов’язані надавати публічну інформацію у формі відкритих даних на запит, оприлюднювати і регулярно оновлювати її на єдиному державному веб-порталі відкритих даних та на своїх веб-сайтах.
+
+                            Публічна інформація у формі відкритих даних є дозволеною для її подальшого вільного використання та поширення.
+
+                            Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов’язковим посиланням на джерело отримання такої інформації.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- 2 панель -->
+            <div class="panel panel-default">
+                <!-- Заголовок 2 панели -->
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Які існують формати даних?</a>
+                    </h4>
+                </div>
+                <div id="collapseTwo" class="panel-collapse collapse">
+                    <!-- Содержимое 2 панели -->
+                    <div class="panel-body">
+                        <p>Відповідно до Положення про набори даних, які підлягають оприлюдненню у формі відкритих даних, затвердженого постановою Кабінету Міністрів України від 21.10.2015 № 835 визначено наступні
+
+                            формати для оприлюднення публічної інформації у формі відкритих даних:
+
+                            Текстові дані TXT, RTF, ODT*, DOC(X), PDF (з текстовим змістом, не скановане зображення), (X)HTML*
+
+                            Структуровані дані RDF*, XML*, JSON*, CSV*, XLS(X), ODS *, YAML*
+
+                            Графічні дані GIF*, TIFF, JPG (JPEG)*, PNG*
+
+                            Відеодані MPEG, MKV, AVI, FLV, MKS,MK3D
+
+                            Аудіодані MP3, WAV, MKA
+
+                            Дані, розроблені з використанням програми Macromedia Flash SWF, FLV
+
+                            Архів даних ZIP*, 7z*, Gzip*, Bzip2*
+
+                            При створенні нових наборів даних забезпечується використання відкритих форматів даних (формати, позначені * у таблиці) та структурованих даних (формати RDF, XML, JSON, CSV).
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- 3 панель -->
+            <div class="panel panel-default">
+                <!-- Заголовок 3 панели -->
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Як забрати набір даних (API)?</a>
+                    </h4>
+                </div>
+                <div id="collapseThree" class="panel-collapse collapse">
+                    <!-- Содержимое 3 панели -->
+                    <div class="panel-body">
+                        <p>Для того, щоб отримати файл в форматі xml, необхідно перейти за посиланням та вказати “Ідентифікаційний номер” набору даних, який відображається при відкритті обраного набору даних, а також номер ревізії, якщо необхідно отримати попередню версію набору даних:
+
+                            data.gov.ua/view-dataset/dataset?dataset-id=ідентифікаційний номер набору даних&revison-id=номер ревізії.
+
+
+
+                            Для того, щоб забрати файл в форматі json, необхідно перейти за посиланням та вказати “Ідентифікаційний номер” набору даних, який відображається при відкритті обраного набору даних, а також номер ревізії, якщо необхідно отримати попередню версію набору даних:
+
+                            data.gov.ua/view-dataset/dataset.json?dataset-id=ідентифікаційний номер набору даних&revison-id=номер ревії.
+
+
+
+                            Якщо 'revison-id' не передавати, то поверне останній варіант набору даних.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- конец -->
+
+<footer>
+    <div class="row footer container">
+            <div class="col-md-6 logoBot">
+                <img src="source/img/logo2.png">
+                <p>© 2015-2017 Державне агентство з питань електронного урядування України</p>
+            </div>
+            <div class="footerBar col-md-4">
+                <ul class="col-md-6 col-xs-6">
+                    <li><a href="eror.html" >НОВИНИ </a></li>
+                    <li><a href="eror.html">КАТАЛОГ ДОДАТКІВ</a></li>
+                    <li><a href="eror.html">РОЗРОБНИКАМ</a></li>
+                    <li><a href="eror.html">ЗВОРОТНІЙ ЗВ'ЯЗОК</a></li>
+                </ul>
+                <ul class="col-md-6 col-xs-6">
+                    <li><a href="eror.html">НАБОРИ ДАННИХ</a></li>
+                    <li><a href="eror.html">РОЗПОРЯДНИКИ</a></li>
+                    <li><a href="eror.html">ПРО ПОРТАЛ</a></li>
+                </ul>
+            </div>
+            <div class="col-md-2 iconFot">
+                <img src="source/img/foter/w512h5121347464873Facebookalt4.png">
+                <img src="source/img/foter/w512h5121347464932TwitterNEW.png">
+        </div>
+    </div>
+</footer>
+</body>
+</html>

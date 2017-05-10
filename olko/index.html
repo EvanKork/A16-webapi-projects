@@ -5,6 +5,7 @@
 	<title>DATA.GOV</title>
 	<link href="css/style.css" rel="stylesheet" media="screen">
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<script src="js/jquery.min.js"></script>
 </head>
 <body>
 	<div class="line"></div>
@@ -229,27 +230,53 @@
 			</div>
 		</div>
 
-		<div class="row news">
-			<h2>НОВИНИ</h2>
-			<div class="col-sm-3 col-md-6 col-lg-3 news">
-				<a><h3>10 березня 2017 року презентовано Дорожню карту розвитку відкритих даних в Україні на 2017 рік</h3></a>
-				<p>Відкриття державних даних у спеціальних форматах – це сучасний інструмент підвищення прозорості органів влади і якості прийняття управлінських рішень.</p>
-				<p>10.03.2017 <span class="glyphicon glyphicon-eye-open"></span>320</p>
-			</div>
-			<div class="col-sm-3 col-md-6 col-lg-3 news">
-				<a><h3>Ухвалено Порядок ведення Єдиного державного веб-порталу відкритих даних </h3></a>
-				<p>Кабінет Міністрів України ухвалив постанову від 30 листопада 2016 р. № 867 «Деякі питання оприлюднення публічної інформації у формі відкритих даних», якою затверджено Порядок ведення Єдиного державного веб-порталу відкритих даних.</p>
-				<p>15.12.2016 <span class="glyphicon glyphicon-eye-open"></span>156</p>
-			</div>
-			<div class="col-sm-3 col-md-6 col-lg-3 news">
-				<a><h3>International Open Data Conference 2016 </h3></a>
-				<p>6-7 жовтня у Мадриді відбулась Міжнародна конференція з відкритих даних «International Open Data Conference 2016»</p>
-				<p>07.10.2016 <span class="glyphicon glyphicon-eye-open"></span>478</p>
-			</div>
-			<div class="col-sm-3 col-md-6 col-lg-3 news">
-				<a><h3>УРЯД УХВАЛИВ РОЗПОРЯДЖЕННЯ ПРО ПРИЄДНАННЯ УКРАЇНИ ДО МІЖНАРОДНОЇ ХАРТІЇ ВІДКРИТИХ ДАНИХ </h3></a>
-				<p>22 вересня 2016 р. Уряд ухвалив розпорядження про приєднання України до Міжнародної Хартії відкритих даних.</p>
-				<p>28.09.2016 <span class="glyphicon glyphicon-eye-open"></span>124</p>
+		<!--<div class="row news">-->
+			<!--<h2>НОВИНИ</h2>-->
+			<!--<div class="col-sm-3 col-md-6 col-lg-3 news">-->
+				<!--<a><h3>10 березня 2017 року презентовано Дорожню карту розвитку відкритих даних в Україні на 2017 рік</h3></a>-->
+				<!--<p>Відкриття державних даних у спеціальних форматах – це сучасний інструмент підвищення прозорості органів влади і якості прийняття управлінських рішень.</p>-->
+				<!--<p>10.03.2017 <span class="glyphicon glyphicon-eye-open"></span>320</p>-->
+			<!--</div>-->
+			<!--<div class="col-sm-3 col-md-6 col-lg-3 news">-->
+				<!--<a><h3>Ухвалено Порядок ведення Єдиного державного веб-порталу відкритих даних </h3></a>-->
+				<!--<p>Кабінет Міністрів України ухвалив постанову від 30 листопада 2016 р. № 867 «Деякі питання оприлюднення публічної інформації у формі відкритих даних», якою затверджено Порядок ведення Єдиного державного веб-порталу відкритих даних.</p>-->
+				<!--<p>15.12.2016 <span class="glyphicon glyphicon-eye-open"></span>156</p>-->
+			<!--</div>-->
+			<!--<div class="col-sm-3 col-md-6 col-lg-3 news">-->
+				<!--<a><h3>International Open Data Conference 2016 </h3></a>-->
+				<!--<p>6-7 жовтня у Мадриді відбулась Міжнародна конференція з відкритих даних «International Open Data Conference 2016»</p>-->
+				<!--<p>07.10.2016 <span class="glyphicon glyphicon-eye-open"></span>478</p>-->
+			<!--</div>-->
+			<!--<div class="col-sm-3 col-md-6 col-lg-3 news">-->
+				<!--<a><h3>УРЯД УХВАЛИВ РОЗПОРЯДЖЕННЯ ПРО ПРИЄДНАННЯ УКРАЇНИ ДО МІЖНАРОДНОЇ ХАРТІЇ ВІДКРИТИХ ДАНИХ </h3></a>-->
+				<!--<p>22 вересня 2016 р. Уряд ухвалив розпорядження про приєднання України до Міжнародної Хартії відкритих даних.</p>-->
+				<!--<p>28.09.2016 <span class="glyphicon glyphicon-eye-open"></span>124</p>-->
+			<!--</div>-->
+		<!--</div>-->
+		<div class="row">
+			<div class="min">
+				<script>
+                    $.getJSON('http://newsapi.org/v1/articles?source=ign&sortBy=latest&apiKey=4bff6b538cde4e5d8e6797f89015c017', function(data) {
+                        var items = [];
+//                        console.log('data', data);
+                        $.each(data.articles, function (key, val) {
+                            items.push('' +
+                                '<div class="api">' +
+                                '<h3>'+val.title+'</h3>' +
+                                '<img src="'+val.urlToImage+'">' +
+                                '<p>'+val.description+'</p>' +
+                                '<a href="'+val.url+'">...read more.</a>' +
+                                '<p>'+val.author+'  '+val.publishedAt+'</p>'+
+                                '</div>');
+
+                        });
+
+                        $('<p/>', {
+                            'class': 'my-new-list',
+                            html: items.join('')
+                        }).appendTo('.min');
+                    });
+				</script>
 			</div>
 		</div>
 
@@ -271,6 +298,9 @@
 		<div class="row">
 			<div class="footer">
 				<img src="img/logo.png">
+				<div class="copyright">
+					© 2015-2017 Державне агентство з питань електронного урядування України
+				</div>
 			</div>
 		</div>
 	</div>

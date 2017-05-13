@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ea8319-29b1-4ead-95f6-b90262873ff9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/olko/boo/index.html" afterPath="$PROJECT_DIR$/olko/boo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/olko/boo/source/css/style.css" afterPath="$PROJECT_DIR$/olko/boo/source/css/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/olko/js/npm.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/olko/css/style.css" afterPath="$PROJECT_DIR$/olko/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/olko/index.html" afterPath="$PROJECT_DIR$/olko/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,21 +24,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/olko/boo/index.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/olko/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3510">
-              <caret line="204" column="12" lean-forward="false" selection-start-line="204" selection-start-column="12" selection-end-line="204" selection-end-column="12" />
+            <state relative-caret-position="1480">
+              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/olko/boo/source/css/style.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/olko/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1242">
-              <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+            <state relative-caret-position="303">
+              <caret line="231" column="0" lean-forward="false" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/olko/js/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,10 +61,20 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>search</find>
+      <find>ww</find>
+      <find>sin</find>
+      <find>minnews</find>
+      <find>395</find>
+      <find>text-ali</find>
+      <find>news</find>
+    </findStrings>
     <replaceStrings>
       <replace>clearfix</replace>
     </replaceStrings>
@@ -69,7 +92,6 @@
         <option value="$PROJECT_DIR$/source/css/media.css" />
         <option value="$PROJECT_DIR$/source/css/fonts.css" />
         <option value="$PROJECT_DIR$/source/css/main.css" />
-        <option value="$PROJECT_DIR$/olko/index.html" />
         <option value="$PROJECT_DIR$/olko/штвуч.html" />
         <option value="$PROJECT_DIR$/olko/source/style.css" />
         <option value="$PROJECT_DIR$/olko/Index.html" />
@@ -81,6 +103,10 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/дд/js.html" />
         <option value="$PROJECT_DIR$/olko/boo/index.html" />
+        <option value="$PROJECT_DIR$/olko/.gitignore" />
+        <option value="$PROJECT_DIR$/olko/js/api.js" />
+        <option value="$PROJECT_DIR$/olko/css/style.css" />
+        <option value="$PROJECT_DIR$/olko/index.html" />
       </list>
     </option>
   </component>
@@ -92,10 +118,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
-    <option name="y" value="73" />
-    <option name="width" value="1109" />
-    <option name="height" value="916" />
+    <option name="x" value="57" />
+    <option name="y" value="80" />
+    <option name="width" value="1241" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -141,8 +167,40 @@
               <option name="myItemId" value="olko" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="boo" />
+              <option name="myItemId" value="A16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A16" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olko" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A16" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="olko" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -158,13 +216,14 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="class=&quot;ww&quot;&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/olko/source/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/olko/source/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/olko/source/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -251,6 +310,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="28ea8319-29b1-4ead-95f6-b90262873ff9" name="Default" comment="" />
@@ -272,16 +334,20 @@
       <workItem from="1490740675856" duration="14467000" />
       <workItem from="1490912270025" duration="209000" />
       <workItem from="1491076438474" duration="511000" />
+      <workItem from="1494525828947" duration="17657000" />
+      <workItem from="1494636779671" duration="5933000" />
+      <workItem from="1494690817965" duration="8920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100374000" />
+    <option name="totallyTimeSpent" value="132884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="73" width="1109" height="916" extended-state="0" />
+    <frame x="57" y="80" width="1241" height="990" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2777277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24738115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957393" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -296,7 +362,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288835" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -311,10 +377,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/olko/Index.html" />
-    <entry file="file://$PROJECT_DIR$/olko/source/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/olko/Index.html" />
-    <entry file="file://$PROJECT_DIR$/olko/source/css/style.css" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/source/css/animate.css" />
     <entry file="file://$PROJECT_DIR$/source/css/main.css" />
@@ -346,7 +408,6 @@
     <entry file="file://$PROJECT_DIR$/source/css/fonts.css" />
     <entry file="file://$PROJECT_DIR$/source/css/main.css" />
     <entry file="file://$PROJECT_DIR$/source/css/animate.css" />
-    <entry file="file://$PROJECT_DIR$/olko/index.html" />
     <entry file="file://$PROJECT_DIR$/olko/cp .env.example ..txt" />
     <entry file="file://$PROJECT_DIR$/olko/штвуч.html" />
     <entry file="file://$PROJECT_DIR$/olko/source/css/style.css___jb_tmp___" />
@@ -355,23 +416,35 @@
     <entry file="file://$PROJECT_DIR$/olko/base/in2.html" />
     <entry file="file://$PROJECT_DIR$/olko/source/css/style.css" />
     <entry file="file://$PROJECT_DIR$/olko/Index.html" />
-    <entry file="file://$PROJECT_DIR$/olko/boo/source/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/olko/boo/source/css/style.css" />
     <entry file="file://$PROJECT_DIR$/дд/js.html" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/дд/base/in2.html" />
     <entry file="file://$PROJECT_DIR$/A_Shepel/index.html" />
     <entry file="file://$PROJECT_DIR$/дд/base/Index.html" />
-    <entry file="file://$PROJECT_DIR$/olko/boo/index.html">
+    <entry file="file://$PROJECT_DIR$/olko/boo/index.html" />
+    <entry file="file://$PROJECT_DIR$/olko/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/olko/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/olko/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3510">
-          <caret line="204" column="12" lean-forward="false" selection-start-line="204" selection-start-column="12" selection-end-line="204" selection-end-column="12" />
+        <state relative-caret-position="1480">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olko/js/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olko/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="231" column="0" lean-forward="false" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
           <folding />
         </state>
       </provider>

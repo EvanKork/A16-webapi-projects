@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ea8319-29b1-4ead-95f6-b90262873ff9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/olko/js/api.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/olko/.gitignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/olko/js/npm.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -118,8 +119,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
-    <option name="y" value="80" />
+    <option name="x" value="-14" />
+    <option name="y" value="72" />
     <option name="width" value="1241" />
     <option name="height" value="990" />
   </component>
@@ -336,15 +337,15 @@
       <workItem from="1491076438474" duration="511000" />
       <workItem from="1494525828947" duration="17657000" />
       <workItem from="1494636779671" duration="5933000" />
-      <workItem from="1494690817965" duration="8920000" />
+      <workItem from="1494690817965" duration="9074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132884000" />
+    <option name="totallyTimeSpent" value="133038000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="80" width="1241" height="990" extended-state="0" />
+    <frame x="-14" y="72" width="1241" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24738115" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
